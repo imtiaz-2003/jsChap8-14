@@ -120,4 +120,5 @@ function clrbtn() {
 
 function clrbtn2() {
   document.getElementById("output").innerHTML = "";
+  // document.getElementById("Orignal").innerHTML = "";
 }
